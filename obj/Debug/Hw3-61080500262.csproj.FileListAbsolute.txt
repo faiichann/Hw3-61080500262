@@ -1,0 +1,17 @@
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\bin\Debug\howto_rgb_to_hls.exe
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\bin\Debug\howto_rgb_to_hls.pdb
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\obj\Debug\howto_rgb_to_hls.Form1.resources
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\obj\Debug\howto_rgb_to_hls.Properties.Resources.resources
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\obj\Debug\Hw3-61080500262.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\obj\Debug\Hw3-61080500262.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\obj\Debug\howto_rgb_to_hls.exe
+C:\Users\win10\Desktop\61080500262\howto_rgb_to_hls\obj\Debug\howto_rgb_to_hls.pdb
+C:\Users\win10\source\repos\Hw3-61080500262\bin\Debug\howto_rgb_to_hls.exe
+C:\Users\win10\source\repos\Hw3-61080500262\bin\Debug\howto_rgb_to_hls.pdb
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\Hw3-61080500262.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\howto_rgb_to_hls.Form1.resources
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\howto_rgb_to_hls.Properties.Resources.resources
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\Hw3-61080500262.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\Hw3-61080500262.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\howto_rgb_to_hls.exe
+C:\Users\win10\source\repos\Hw3-61080500262\obj\Debug\howto_rgb_to_hls.pdb
